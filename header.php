@@ -31,7 +31,7 @@
 		<!--  Publicidad embimedia nativa en el home  -->
 		<script type="text/javascript">
 		  window._taboola = window._taboola || [];
-		  _taboola.push({home:'auto'});
+		  _taboola.push({article:'auto'});
 		  !function (e, f, u, i) {
 			if (!document.getElementById(i)){
 			  e.async = 1;
